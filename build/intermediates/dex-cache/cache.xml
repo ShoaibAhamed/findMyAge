@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_bd2beba03f9c80f2acce709eb641f53d2ef7b068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_6c8d1aca03e2622fcc0958e72344af300f66d8d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_4b772676c1f8d74efa902c80df0900f9c93cf4a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_1c570b400c0c0451832d898c69a43bc7eed1ba74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_1dcbe977c5f67ed984d3d15d8eb91e96a53c0b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_43c0a1219e48ed6530392a6540208bdebb7501d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_71c5cec7a428ee97fb183b530feec15483cdb513/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_8d4e5b681c1cea524940e65f458c9b2609d83303/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec4fe86cd17b8722fb78d685fb62a10e3935911f">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_79b4f8f5de40f566f8dd977aef0bbd425cdb2a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_25f1aefc3f7f42d0b4aefd6bcb2001ccaf594ea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_8e39bea0ce7b598b3f24c5aed01e45cd49c09edf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4926d3de7e089db74a01e67fce020a84816bdf86">
+        <dex dex="/Users/shoaibahamed/Desktop/MobileAppCourseDemoCode-master/FindMyAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c1854180eb61fd74ddb0184cac5d07423a6ff8b8/classes.dex" />
+    </item>
+
+</items>
